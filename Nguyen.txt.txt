@@ -1,7 +1,4 @@
-<<<<<<< HEAD
+
 tran vo trong nguyen
 pixa studio
 12344
-
-=======
->>>>>>> parent of baa2df6... add file
